@@ -28,7 +28,7 @@ Industry-Oriented Healthcare Analytics Project completed during a Data Analytics
 - Created KPIs to measure healthcare performance
 - Built dashboards using Microsoft Excel, Power BI, and Tableau
 - Analyzed patient, doctor, diagnostic, and revenue metrics
-- Generated business insights and recommendations
+- Generated actionable business insights and data-driven recommendations
 - Contributed to project documentation and presentation
 
 ## Key Performance Indicators (KPIs)
